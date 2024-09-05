@@ -42,3 +42,12 @@ console.log("== : "+ (10 =='10'));//값이 일치하면 true
 console.log("=== : " + (10 ==='10')); // 값과 데이터 타입이 일치할 때 true
 console.log("!= : "+ (10 !='10'));
 console.log("!== : "+ (10 !=='10'));
+
+//논리연산자
+//&&
+//||
+//!
+
+console.log(true && false); // and 
+console.log(true || false); // or 
+console.log(!true);// not
